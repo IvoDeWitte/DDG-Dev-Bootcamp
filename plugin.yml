@@ -1,0 +1,11 @@
+ name: Plugin1
+ version: 1.0
+ description: DDG Boothcamp
+ author: PRIXI0US
+ 
+ main: dev.idw0309.plugin1.Core
+ 
+  
+ commands:
+   setspawn:
+     description: just a command
