@@ -1,11 +1,11 @@
- name: Plugin1
+ name: DDG-Bootcamp
  version: 1.0
- description: DDG Boothcamp
+ description: DDG Bootcamp
  author: PRIXI0US
  
- main: dev.idw0309.plugin1.Core
+ main: dev.idw0309.ddgbootcamp.Core
  
   
  commands:
-   setspawn:
+   bootcamp:
      description: just a command
